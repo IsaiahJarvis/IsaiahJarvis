@@ -1,0 +1,22 @@
+FC=True
+AC3=
+MAC=
+NC=
+MRV=True
+LCV=True
+rows=5
+columns=5
+#,#,#,#,#
+#,0,0,#,#
+#,0,0,0,0
+#,0,0,0,0
+#,#,#,0,0
+Constraints (row,column,sum,direction)
+1,2,24,v
+1,3,21,v
+2,1,17,h
+2,4,23,v
+2,5,24,v
+3,1,30,h
+4,1,29,h
+5,3,16,h
