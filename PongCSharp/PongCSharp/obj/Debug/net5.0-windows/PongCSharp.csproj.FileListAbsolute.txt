@@ -1,0 +1,36 @@
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\bin\Debug\net5.0-windows\PongCSharp.exe
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\bin\Debug\net5.0-windows\PongCSharp.deps.json
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\bin\Debug\net5.0-windows\PongCSharp.runtimeconfig.json
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\bin\Debug\net5.0-windows\PongCSharp.runtimeconfig.dev.json
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\bin\Debug\net5.0-windows\PongCSharp.dll
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\bin\Debug\net5.0-windows\ref\PongCSharp.dll
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\bin\Debug\net5.0-windows\PongCSharp.pdb
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.csproj.AssemblyReference.cache
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.Form1.resources
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.csproj.GenerateResource.cache
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.AssemblyInfoInputs.cache
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.AssemblyInfo.cs
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.dll
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\ref\PongCSharp.dll
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.pdb
+C:\Users\Isaia\source\repos\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.genruntimeconfig.cache
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\bin\Debug\net5.0-windows\PongCSharp.exe
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\bin\Debug\net5.0-windows\PongCSharp.deps.json
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\bin\Debug\net5.0-windows\PongCSharp.runtimeconfig.json
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\bin\Debug\net5.0-windows\PongCSharp.runtimeconfig.dev.json
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\bin\Debug\net5.0-windows\PongCSharp.dll
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\bin\Debug\net5.0-windows\ref\PongCSharp.dll
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\bin\Debug\net5.0-windows\PongCSharp.pdb
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.csproj.AssemblyReference.cache
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.Form1.resources
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.csproj.GenerateResource.cache
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.AssemblyInfoInputs.cache
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.AssemblyInfo.cs
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.dll
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\ref\PongCSharp.dll
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.pdb
+C:\Users\Isaia\OneDrive\Desktop\Comp Graphics\PongCSharp\PongCSharp\obj\Debug\net5.0-windows\PongCSharp.genruntimeconfig.cache
